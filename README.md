@@ -212,6 +212,26 @@ Os resultados mensais do pivot mostraram coerência com os totais da Tarefa 3, c
 
 ---
 
+## 📦 Entrega e Resultados Visuais
+
+Os resultados visuais das tabelas e do ciclo de clientes estão disponíveis na aba
+👉 [**Issues do Repositório**](https://github.com/AngelaBernadelli/Business-Case---PicPay/issues)
+
+Lá você encontra:
+
+* Visualizações das tabelas **Bronze**, **Silver**, **Gold** e **Pivot Final**
+* Imagens com amostras das bases processadas
+* E o link direto para download do pacote `.zip` contendo:
+
+  * Scripts SQL (`.sql`)
+  * Tabelas exportadas (`.csv`)
+  * Documentação auxiliar (`.txt`)
+
+📥 **Download:** [case_banking_pj_entrega_completa.zip](https://github.com/AngelaBernadelli/Business-Case---PicPay/issues)
+
+---
+
+
 ## 📂 Estrutura de Arquivos
 
 ```
