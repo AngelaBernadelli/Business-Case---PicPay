@@ -232,13 +232,6 @@ O arquivo original (`transactions_v5.csv`) foi fornecido no material do **Busine
 
 ---
 
-## 🧠 Tecnologias Utilizadas
-
-* **MySQL Workbench** – modelagem e execução das queries
-* **Linguagem SQL (DDL, DML, CTEs, Window Functions)**
-* **Excel** – validação dos resultados intermediários
-* **GitHub Wiki** – documentação técnica detalhada
-
 📘 [Acesse a Wiki Completa do Projeto](https://github.com/AngelaBernadelli/Business-Case---PicPay/wiki)
 
 ---
