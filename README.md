@@ -227,7 +227,7 @@ Lá você encontra:
   * Tabelas exportadas (`.csv`)
   * Documentação auxiliar (`.txt`)
 
-📥 **Download:** [case_banking_pj_entrega_completa.zip](https://github.com/AngelaBernadelli/Business-Case---PicPay/issues)
+📥 **Download:** [Case - Analytics - Banking PJ - v2 - entrega.zip](https://github.com/user-attachments/files/23442198/Case.-.Analytics.-.Banking.PJ.-.v2.-.entrega.zip)
 
 ---
 
